@@ -29,7 +29,7 @@
 development: &default
   adapter: postgresql
   encoding: unicode
-  database: adtrack_development
+  database: app_development
   pool: 5
   username: postgres
   password:
@@ -37,8 +37,8 @@ development: &default
 
 test:
   <<: *default
-  database: adtrack_development
+  database: app_development
 
 production:
   <<: *default
-  database: adtrack_development
+  database: app_development

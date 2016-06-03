@@ -34,6 +34,7 @@ docker-compose run web rake db:create db:migrate
 ### 3. That's it! Go forth and prosper.
 
 Your Rails web server runs on a docker container, and is port mapped to localhost:3000.
+
 Postgres service runs on a docker container, and is port mapped to localhost:5432
 
 ## Spinning down docker containers:

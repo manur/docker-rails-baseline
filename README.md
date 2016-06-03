@@ -1,6 +1,8 @@
 ## To build using docker
 
 # 1. Install Docker and Docker Compose on your host
+https://docs.docker.com/engine/installation/
+
 # 2. Build a network of containers based on `Dockerfile` and `docker-compose.yml` recipes
 
 ## Getting started:

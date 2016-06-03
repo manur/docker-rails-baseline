@@ -1,4 +1,5 @@
-# To build using docker
+# Start a new project with sign ups, logins and session management
+## Stop writing boilerplate
 
 ## Getting started:
 
@@ -30,7 +31,7 @@ docker-compose up
 docker-compose run web rake db:create db:migrate
 
 ```
-### 3. That's it. Go ahead and develop your app's functionality.
+### 3. That's it! Go forth and prosper.
 
 Your Rails web server runs on a docker container, and is port mapped to localhost:3000.
 Postgres service runs on a docker container, and is port mapped to localhost:5432

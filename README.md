@@ -1,5 +1,5 @@
-# Start a new project with sign ups, logins and session management
-## Stop writing boilerplate
+# Quick start Rails 4.2 with signups + logins 
+Less boilerplate, more productivity
 
 ## Getting started:
 
